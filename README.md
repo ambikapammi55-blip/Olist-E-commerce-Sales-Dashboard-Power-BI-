@@ -1,20 +1,14 @@
 # Olist-E-commerce-Sales-Dashboard-Power-BI-
 
 ## About
-Sales dashboard built in Power BI using the Brazilian Olist e-commerce dataset.
+An interactive Power BI dashboard built on the Olist Brazilian e-commerce dataset to understand sales performance and customer satisfaction.
 
-## Key visuals
-- KPI cards: Total Sales, Orders, Average Order Value, Average Review Score
-- Total Sales by Month
-- Sales by Product Category
-- Total Sales by Customer State
-- Orders by Review Score
+## What it covers
+- Sales trend analysis by month
+- Product category performance
+- State-wise sales comparison
+- Customer review score distribution
+- KPIs: Total Sales, Number of Orders, Average Order Value, Average Review Score
 
-## Tools
-Power BI, DAX, Data Modelling
-
-## Dataset
-Olist Brazilian E-Commerce dataset (Kaggle): link here
-
-## Preview
-![Dashboard](screenshots/dashboard.png)
+## Skills used
+Data modelling, DAX measures, slicers and filters, dashboard design
