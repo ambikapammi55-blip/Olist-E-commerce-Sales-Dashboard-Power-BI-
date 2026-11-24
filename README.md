@@ -1,5 +1,4 @@
 # Olist-E-commerce-Sales-Dashboard-Power-BI-
-# Olist Sales Performance Dashboard (Power BI)
 
 ## About
 Sales dashboard built in Power BI using the Brazilian Olist e-commerce dataset.
